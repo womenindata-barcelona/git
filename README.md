@@ -1,6 +1,6 @@
 # Git Workshop
 
-In this workshop we will get familiar with one of the most indispensable tools when working with a Development team: Git.
+In this workshop we will get familiar with one of the most indispensable tools when working within a Development team: Git.
 
 Prerequisites:
 - Have Git installed (you can download it here: https://git-scm.com/downloads).
