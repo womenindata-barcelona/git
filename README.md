@@ -10,8 +10,7 @@ We will only give general instructions, so that you can put in practice what you
 
 * Fork our repository.
 * Clone it to have the files locally.
-* Change to the *exercise* branch
-* Create your own branch from this one
+* Create your own branch 
 * Add a file with your poem to the *WiD Poems* folder (it does not need to be a beautiful poem... or even a poem)
 * Add the file and commit the changes
 * Push the changes to your repo
